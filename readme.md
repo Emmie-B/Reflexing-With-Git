@@ -1,4 +1,4 @@
-## Hello! git
+## Heyy!! Welcome to my Git Line
 
-- I'm adding this from 'profuction-branch'
+- Product guy here
 - Plus using this code to publish a branch: 'git push --set-upstream origin production'
